@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <h1 style="text-align:center;">**Google Data Analytics Capstone**</h1> 
 <h3 style="text-align:center;">**Case Study 2: How Can a Wellness Technology Company Play It Smart?**</h3> 
-<h3 style="text-align:center;">**Bellabeat Wellness Company***</h3> 
+<h3 style="text-align:center;">**Bellabeat Wellness Company**</h3> 
 
 ![](Fig00.png) 
 
